@@ -1,0 +1,22 @@
+{
+  "wheel_id": 765,
+  "structure": "umbrella",
+  "slug": "renovationsydney-106",
+  "project": "home-renovations-sydney-questions-to-ask-38e56fd1633b3fc60717a5",
+  "parent_t1_ref": "renovationsydney-152",
+  "node_role": "feeder",
+  "money_target": "renovationsydney.com.au",
+  "primary_kw": "home renovations sydney questions to ask",
+  "intended_url": "http://home-renovations-sydney-questions-to-ask-38e56fd1633b3fc60717a5.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "f33b8ad25097ee44",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/home-renovations-sydney-cost-guide-444641ab4c1d546dba12fb09556d/",
+      "anchor": "the home renovations sydney cost guide overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
